@@ -1,4 +1,4 @@
-# Stock Price Forecasting and Trading Signal Generation
+# Stock Price Forecasting and Trading Signal Generation Using Machine learning (ML) and Deep Learning
 
 ## Project Overview
 
