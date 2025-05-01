@@ -9,6 +9,7 @@ The project also includes a feature to generate trading signals based on predict
 ## Project Structure
 
 The project is organized as follows:
+stock_forecasting_project/ │ ├── data/ │ └── stock_data.csv # Historical stock data (you can modify with real-time data) │ ├── notebooks/ │ ├── data_analysis.ipynb # Data collection, exploratory data analysis (EDA), moving averages, and correlation │ └── model_training.ipynb # Model training, LSTM implementation, prediction, and trading signal visualization │ └── README.md # Project documentation
 
 
 ## Features
