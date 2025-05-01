@@ -40,7 +40,10 @@ stock_forecasting_project/ │ ├── data/ │ └── stock_data.csv # Hi
    ```bash
    git clone https://github.com/Er-Nitinsaini/Stock-Price-Forecasting-and-Trading-Signal-Generation.git
 
+
+```bash
    pip install -r requirements.txt
+
 
 
 
