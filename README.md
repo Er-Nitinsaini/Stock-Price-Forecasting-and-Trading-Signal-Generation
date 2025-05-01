@@ -31,7 +31,7 @@ stock_forecasting_project/ │ ├── data/ │ └── stock_data.csv # Hi
   - scikit-learn
   - yfinance (for fetching real-time stock data)
  
-    pip install -r requirements.txt
+  
 
 
 ## Installation
@@ -39,6 +39,9 @@ stock_forecasting_project/ │ ├── data/ │ └── stock_data.csv # Hi
 1. Clone this repository:
    ```bash
    git clone https://github.com/Er-Nitinsaini/Stock-Price-Forecasting-and-Trading-Signal-Generation.git
+
+   pip install -r requirements.txt
+
 
 
    
