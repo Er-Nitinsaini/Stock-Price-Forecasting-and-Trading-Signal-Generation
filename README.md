@@ -1,4 +1,4 @@
-# Stock Price Forecasting and Trading Signal Generation
+# Stock Price Forecasting and Trading Signal Generation Using Machine learning (ML) and Deep Learning
 
 ## Project Overview
 
@@ -31,7 +31,16 @@ stock_forecasting_project/ │ ├── data/ │ └── stock_data.csv # Hi
   - scikit-learn
   - yfinance (for fetching real-time stock data)
  
-  
+  ## RESULT
+
+  ![image](https://github.com/user-attachments/assets/bd0360ca-f688-4fdb-bbb3-64e74c4ea388)
+  ![image](https://github.com/user-attachments/assets/c1a54615-241b-4207-8659-49605dddfb94)
+  ![image](https://github.com/user-attachments/assets/3471a8a5-fa23-4d81-a05b-82f8eb9c7ff0)
+  ![image](https://github.com/user-attachments/assets/0461f205-34c1-4339-9fd7-f21524c33155)
+
+
+
+
 
 
 ## Installation
@@ -40,7 +49,10 @@ stock_forecasting_project/ │ ├── data/ │ └── stock_data.csv # Hi
    ```bash
    git clone https://github.com/Er-Nitinsaini/Stock-Price-Forecasting-and-Trading-Signal-Generation.git
 
+
+```bash
    pip install -r requirements.txt
+
 
 
 
